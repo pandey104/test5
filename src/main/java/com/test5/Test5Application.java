@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test5Application {
 
 	public static void main(String[] args) {
+		string name = "anjali";
 		SpringApplication.run(Test5Application.class, args);
 	}
 
